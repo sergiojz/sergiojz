@@ -58,7 +58,7 @@ Estoy desarrollando proyectos backend profesionales enfocados en:
 
 ## 📫 Contacto
 
-- 📧 Email: sergiojimenesj@gmail.com
+- 📧 Email: sergiojimenezutrera@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/sergio-jim%C3%A9nez-015202374/
 - 🌍 Ubicación: España (Remoto)
 
